@@ -1,7 +1,7 @@
 # ewelink-api-fixed
 > eWeLink API for JavaScript
 
-### Please note: This is an unmaintained fork of https://github.com/skydiver/ewelink-api/ with fix specifically for getDevicePowerUsage
+### Please note: This is an unmaintained fork of https://github.com/skydiver/ewelink-api/ which includes a bugfix specifically for getDevicePowerUsage
 
 ## Key features
 
