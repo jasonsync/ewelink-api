@@ -1,8 +1,10 @@
-# ewelink-api
+# ewelink-api-fixed
 > eWeLink API for JavaScript
 
+### Please note: This is an unmaintained fork of https://github.com/skydiver/ewelink-api/ with fix specifically for getDevicePowerUsage
 
 ## Key features
+
 * can run on browsers, node scripts or serverless environment
 * set on/off devices
 * get power consumption on devices like Sonoff POW
@@ -12,9 +14,9 @@
 
 ## Installation
 ```sh
- npm install ewelink-api
+ npm install ewelink-api-fixed
 ```
 
 
 ## Usage
-Check library documentation and examples at https://github.com/skydiver/ewelink-api/tree/master/docs
+Check library documentation and examples at https://github.com/skydiver/ewelink-api/
