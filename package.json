@@ -1,16 +1,16 @@
 {
-  "name": "ewelink-api",
-  "version": "3.1.1",
-  "description": "eWeLink API for Node.js",
-  "author": "Martín M.",
+  "name": "ewelink-api-fixed",
+  "version": "3.1.1-fix",
+  "description": "fork + hotfix for github.com/skydiver/ewelink-api",
+  "author": "jasonsync",
   "license": "MIT",
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skydiver/ewelink-api.git"
+    "url": "git+https://github.com/jasonsync/ewelink-api-fixed.git"
   },
   "bugs": {
-    "url": "https://github.com/skydiver/ewelink-api/issues"
+    "url": "https://github.com/jasonsync/ewelink-api-fixed/issues"
   },
   "keywords": [
     "ewelink",
